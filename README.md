@@ -1,4 +1,4 @@
-# filters
+# Filters
 Apply various filters to images using c
 
 ## Usage
